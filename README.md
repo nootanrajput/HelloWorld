@@ -1,4 +1,4 @@
-# HelloWorld
+# gurukula automation project
 My first repository
 
-I am doing first change!
+Creating automation framework.
